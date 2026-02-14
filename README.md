@@ -1,10 +1,10 @@
 # Dark-Places
-A Game base on the 2D game called Limbo, but in 3D using a custom engine!
+A Game for Liminal Spcaes with good graphics and quality built using godot engine!
 
 
 * [] Add Limbo Graphics -
 
-* [] Add Fog -
+* [O] Add Fog -
 
 * [] Add Better Pysics -
 
@@ -13,3 +13,14 @@ A Game base on the 2D game called Limbo, but in 3D using a custom engine!
 * [] Add Creatures -
 
 * [] Upload Beta Release to https://itch.io
+
+
+# Game Levels
+
+[] Level 1
+
+[] Level 2
+
+[] Level 3
+
+[0] Level 4
